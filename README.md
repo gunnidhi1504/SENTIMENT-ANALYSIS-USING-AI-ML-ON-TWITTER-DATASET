@@ -93,7 +93,7 @@ Key Points:
 •	Methodology: Naive Bayes, Support Vector Machines
 •	Performance Metrics: Accuracy, precision
 
- Sentiment Analysis Using Python | Introduction & Techniques
+6.Sentiment Analysis Using Python | Introduction & Techniques
 
 A sentiment analysis determines negative, positive, or neutral emotions within the text  using NLP and ML models. Sentiment analysis or opinion mining refers to identifying as well as classifying the sentiments that are expressed in the text source. 
  Data set used in particular for Twitter sentiment Analysis 
