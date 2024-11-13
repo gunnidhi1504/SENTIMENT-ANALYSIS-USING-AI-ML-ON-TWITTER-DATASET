@@ -34,10 +34,10 @@ A Razia Sulthana1, A K Jaithunbi2, L Sai Ramesh3
 1Department of Information Technology, SRM University, TamilNadu, India 2Department of Computer Science and Engineering, RMD Engineering College, TamilNadu, India 3Department of Information Science and Technology, Anna University, TamilNadu, India
 https://iopscience.iop.org/article/10.1088/1742-6596/1000/1/012130
 The study investigates sentiment analysis of Twitter data concerning the 2020 U.S. Presidential Election, focusing on public opinions about Hillary Clinton and Donald Trump. Key components include:
-1.	Methodology: Utilizes a dataset of 14,000 tweets and applies natural language processing for feature extraction.
-2.	Modeling: Employs linear regression with 10-fold cross-validation for robust analysis.
-3.	Performance: Achieves 85.23% accuracy in classifying sentiments as positive or negative.
-4.	The findings highlight the potential of utilizing social media data for opinion extraction and sentiment classification, contributing to understanding public sentiment in real-time during significant political events.
+	Methodology: Utilizes a dataset of 14,000 tweets and applies natural language processing for feature extraction.
+	Modeling: Employs linear regression with 10-fold cross-validation for robust analysis.
+	Performance: Achieves 85.23% accuracy in classifying sentiments as positive or negative.
+	The findings highlight the potential of utilizing social media data for opinion extraction and sentiment classification, contributing to understanding public sentiment in real-time during significant political events.
 The findings demonstrate effective use of social media data for real-time sentiment extraction and classification related to political events.
 3.Sentiment Analysis using Logistic Regression
  George B. Aliman, Tanya Faye S. Nivera, Jensine Charmille A. Olazo, Daisy Jane P. Ramos, 
